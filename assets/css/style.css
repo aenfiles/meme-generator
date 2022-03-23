@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: lightblue;
+}
+
+header h1 {
+    text-align: center;
+    display: block;
+}
+
+.question h2 {
+    text-align: center;
+    text-shadow: aliceblue;
+    justify-content: space-around;
+    padding: 50px;
+    text-decoration: underline;
+}
+
+.question button {
+    margin: 0 auto;
+    padding: 10px;
+    background-color: white;
+}
+
+.question li {
+    padding: 15px;
+    text-align: center;
+}
